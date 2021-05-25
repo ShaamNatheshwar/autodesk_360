@@ -1,0 +1,67 @@
+fillet -
+  sizes the edges of the solid
+  use the set back to merge the stuffs accordingly
+  variable radius for getting diff stuffs in diff places
+rule fillet -
+   to filleting all the edges
+   we can also fillet by selecting the stuff which we wanna do
+
+ champer -
+   sums up the stuffs
+ 
+ use the construct button to use variety of angles and create the plane accordingly
+ 
+ use inspect and measure to measure the length of the stuffs
+ 
+ modified command 
+   fillet just modify directly using the tool
+     we can use the arc to give different size for the fillet
+   
+   extend
+      this extends upto the nxt object
+      
+   break
+      breaks at intersection
+      
+   scale
+     use cross selection and we can change the value according to the reference
+     
+   mirror
+     use the mirror line to create a mirror line for creating a mirror accordingly
+     
+   for getting circular pattern draw 2 circles and choose circular pattern to draw it
+   use rectangular array for placing of stuffs
+   
+   rib - 
+     forms a slide like a stuff
+     create a sketch from one point to another
+      then use rib and play with it as u want
+     use the coincidence for joining two line
+     
+   shell - 
+   this helps in creating a kinda of outer layer stuff
+   
+   web -
+   creating as many lines as we want
+   
+   draft
+   helps in exploding
+   create plane and draft it acordingly
+ 
+ 
+   material property
+    applies stuufs accordingly based on the metal we select
+    
+ 
+ 
+ for creating patterns - 
+ 
+ create a rectanglea and a circle and then use rectangle pattern and design the stuffs accordingly to our wish
+ for creating a pattern in a angle create a reference angle and then pattern the stuffs accordingly
+ 
+ 
+ 
+ 
+ 
+ 
+ 
